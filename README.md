@@ -7,10 +7,9 @@
 </head>
 <body>
   <nav>
-    <div class="logo">SEND</div>
     <div class="nav-items">
-      <a href="https://www.linkedin.com/feed/">LinkedIn</a>
-      <a href="/">Contact</a>
+      <a href="https://www.linkedin.com/in/jalyn-brown-6b1944293/">LinkedIn</a>
+      <a href="https://github.com/jb-18">Github</a>
     </div> 
   </nav>
   <section class="hero">
@@ -21,7 +20,7 @@
         <button>Get Started</button>
       </div>
       <div class="Column-right">
-        <img src="![IMG_0443](https://github.com/user-attachments/assets/07eed526-0184-47eb-8446-94517f0603c8)
+        <img src="![IMG_0443](https://github.com/user-attachments/assets/72b70e8b-c605-4292-8224-27819a077930)
 " alt="illustration" class="hero-image"/>
     </div>
   </section>
