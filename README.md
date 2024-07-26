@@ -4,8 +4,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> Jalyn J Brown </title>
 </head>
+  <center>
+    <h1 class="centered-heading"> All About Me </h1>    
+  </center>
 <body>
   <nav>
     <div class="nav-items">
@@ -17,10 +19,7 @@
   <section class="hero">
     <div class="hero-container">
       <div class="column-left">
-        <h1>
-          <p class="centered-text"> All About Me </p>
-        </h1>
-        <p> No Contracts or unwanted fees. Exclusive offer for new customers only.</p>
+        <p> </p>
         <button>Get Started</button>
       </div>
       <div class="Column-right">
